@@ -1,0 +1,8 @@
+name: VervaraTownyDiscord
+version: '${project.version}'
+main: townydiscord.vervaratownydiscord.VervaraTownyDiscord
+api-version: 1.17
+prefix: TownyDiscord
+authors: [ vellak ]
+description: links Towny events to discord using the Discord SRV plugin
+website: aeterna.vervara.net
